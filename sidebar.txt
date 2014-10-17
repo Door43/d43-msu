@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msu:home|Door43 (msu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msu|d43-msu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msu/archive/master.zip|d43-msu.zip]]
+
+**Recent Changes**
+{{changes>ns = msu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msu|Ethnologue data]]
+
